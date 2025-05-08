@@ -1,4 +1,4 @@
-# LuMinis x Grok 3 – Mycelium-to-AI Signal Pipeline
+# proto-pipeline
 
 **Version:** 0.1  
 **License:** Open Source (MIT / TBD)  
